@@ -2,7 +2,7 @@
 A programmable 2-bit sequence detector in Verilog HDL. Dynamically detects any pattern (00, 01, 10, 11) using a runtime selector input instead of hardwired logic circuits. Includes a multi-pattern testbench for Icarus Verilog (iverilog) simulations and GTKWave VCD dump files for waveform analysis.
 
 # Runtime-Configurable 2-Bit Sequence Detector (Verilog HDL)
-
+ 
 A highly flexible, hardware-optimized Finite State Machine (FSM) designed in Verilog HDL to dynamically detect any user-defined 2-bit binary sequence from a continuous, serial input stream.
 
 ---  
